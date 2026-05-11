@@ -1,0 +1,34 @@
+img{
+    width: 850px;
+    display: block;
+    margin: auto;
+}
+h1{
+   text-align: center;
+}
+p{
+text-align: left;
+}
+pequeno{
+    color: antiquewhite;
+}
+img{
+    width: 850px;
+  justify-content: center;
+    display: flex;
+}
+h1{
+text-align: center;
+}
+p{
+text-align: center;
+}
+pequeno{
+    color: antiquewhite;
+}
+button{
+color: rgb(30, 96, 187);
+border: none;
+text-align: center;
+justify-content: center;
+}
